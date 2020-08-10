@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://amishagupta725:amishagupta725@developersin-tbxci.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "5fbc8c2e01de0172f5f3",
+  "githubSecret": "7645566d4d0c305392b2ebda3dd6060da85765a1"
+}
